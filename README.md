@@ -31,6 +31,7 @@ Sử dụng jest để test cấu trúc CDK:
 npm test
 
 ## Cấu trúc thư mục
+CDK-DEMO-API/
 ├── bin/
 │ └── cdk-demo-api.ts # Entry point khởi tạo các Stack
 ├── lib/
